@@ -19,4 +19,9 @@ public class MainTest {
     public void testMultiply() {
         assertEquals(4, multiply(2, 2));
     }
+
+    @Test
+    public void testMultiplyFail() {
+        assertNotEquals(4, multiply(2, 3));
+    }
 }
