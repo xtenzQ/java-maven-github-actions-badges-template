@@ -2,7 +2,7 @@
 
 A friendly reminder: If this repo somehow helped you please star 🌟 it! Thank you! 😄
 
-### Use this template for your README.md to generate badges
+### Use this Maven template to generate README.md badges using GitHub Actions
 
 | Action | Badge | Path |
 | --- | --- | --- |
