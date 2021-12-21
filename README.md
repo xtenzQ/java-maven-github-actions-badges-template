@@ -2,12 +2,12 @@
 
 A friendly reminder: If this repo somehow helped you please star 🌟 it! Thank you! 😄
 
-### Use this template for your README.md to generate badges
+### Use this Maven template to generate README.md badges using GitHub Actions
 
 | Action | Badge | Path |
 | --- | --- | --- |
-| build | ![build](https://github.com/xtenzQ/java-maven-github-actions-badges-template/actions/workflows/build.yml/badge.svg) | `https://github.com/<name>/<repo>/actions/workflows/build.yml/badge.svg` |
-| test | ![test](https://github.com/xtenzQ/java-maven-github-actions-badges-template/actions/workflows/tests.yml/badge.svg) | `https://github.com/<name>/<repo>/actions/workflows/tests.yml/badge.svg` |
+| build | ![build](https://github.com/xtenzQ/java-maven-github-actions-badges-template/actions/workflows/build.yml/badge.svg?branch=main) | `https://github.com/<name>/<repo>/actions/workflows/build.yml/badge.svg?branch=main` |
+| test | ![test](https://github.com/xtenzQ/java-maven-github-actions-badges-template/actions/workflows/tests.yml/badge.svg?branch=main) | `https://github.com/<name>/<repo>/actions/workflows/tests.yml/badge.svg?branch=main` |
 | coverage | ![Coverage](.github/badges/jacoco.svg) | `.github/badges/jacoco.svg` |
 
 Badge generation is based on GitHub Actions Workflows:
